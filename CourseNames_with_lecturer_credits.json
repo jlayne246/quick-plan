@@ -1,0 +1,3378 @@
+[
+  {
+    "coursecode": "COMP1170",
+    "title": "ENTREPRENEURSHIP FOR COMPUTER SCIENTISTS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development",
+      "Business and Management"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Project Manager",
+      "Business Analyst",
+      "Web Developer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP1180",
+    "title": "MATHEMATICS FOR COMPUTER SCIENCE I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics",
+      "Software Development"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Software Engineer",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP1205",
+    "title": "COMPUTING I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP1210",
+    "title": "COMPUTING II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP1215",
+    "title": "UNIX",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2210",
+    "title": "MATHEMATICS FOR COMPUTER SCIENCE II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics",
+      "Software Development"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Software Engineer",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2220",
+    "title": "COMPUTER SYSTEM ARCHITECTURE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2225",
+    "title": "SOFTWARE ENGINEERING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2232",
+    "title": "OBJECT ORIENTED PROGRAMMING CONCEPTS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2235",
+    "title": "NETWORKS I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Networking & Cybersecurity"
+    ],
+    "roles": [
+      "Cybersecurity Analyst",
+      "Network Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2245",
+    "title": "WEB DEVELOPMENT CONCEPTS, TOOLS AND PRACTICES",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Web Developer",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2410",
+    "title": "COMPUTING IN THE DIGITAL AGE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2415",
+    "title": "INFORMATION TECHNOLOGY ENGINEERING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant",
+      "Information Technology Engineer",
+      "Technical Support Specialist",
+      "Technician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2611",
+    "title": "DATA STRUCTURES",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Data Science"
+    ],
+    "roles": [
+      "Database Administrator",
+      "Data Analyst"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP2950",
+    "title": "COMPUTER SCIENCE ELECTIVE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3310",
+    "title": "ALGORITHMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3320",
+    "title": "DESIGN PRINCIPLES OF OPERATING SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3330",
+    "title": "DATABASE MANAGEMENT SYSTEMS I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Data Science",
+      "Business and Management"
+    ],
+    "roles": [
+      "Database Administrator",
+      "Data Analyst",
+      "Project Manager",
+      "Business Analyst"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3360",
+    "title": "NETWORKS II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Networking & Cybersecurity"
+    ],
+    "roles": [
+      "Cybersecurity Analyst",
+      "Network Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3370",
+    "title": "SOFTWARE ENGINEERING ON A LARGE SCALE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3375",
+    "title": "SOFTWARE TESTING AND QUALITY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3385",
+    "title": "FRAMEWORK DESIGN FOR ADVANCED WEB DEVELOPMENT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Web Developer",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3412",
+    "title": "SCALABLE ENTERPRISE WEB APPLICATIONS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Web Developer",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3415",
+    "title": "DATABASE MANAGEMENT SYSTEMS II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Data Science",
+      "Business and Management"
+    ],
+    "roles": [
+      "Database Administrator",
+      "Data Analyst",
+      "Project Manager",
+      "Business Analyst"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3420",
+    "title": "COMPUTER GRAPHICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3435",
+    "title": "USER-INTERFACE DESIGN",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3440",
+    "title": "E-COMMERCE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3445",
+    "title": "COMPUTER INFORMATION SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3450",
+    "title": "FUNDAMENTALS OF ARTIFICIAL INTELLIGENCE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3490",
+    "title": "RESEARCH PROJECT IN COMPUTER SCIENCE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3495",
+    "title": "MAJOR RESEARCH PROJECT IN COMPUTER SCIENCE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "COMP3499",
+    "title": "GROUP RESEARCH PROJECT IN COMPUTER SCIENCE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "COMP3955",
+    "title": "COMPUTER SCIENCE INTERNSHIP",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1000",
+    "title": "AN INTRODUCTION TO COMPUTING I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1001",
+    "title": "AN INTRODUCTION TO OBJECT ORIENTED PROGRAMMING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1002",
+    "title": "COMPUTING IN SOCIETY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1003",
+    "title": "CURRENT AND FUTURE TRENDS IN COMPUTING FOR SOFTWARE ENGINEERS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1004",
+    "title": "MATHEMATICS FOR SOFTWARE ENGINEERS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics",
+      "Software Development"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Software Engineer",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1005",
+    "title": "MOBILE WEB PROGRAMMING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Mobile App Developer",
+      "Web Developer",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1006",
+    "title": "RESEARCH METHODS FOR SOFTWARE ENGINEERS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1007",
+    "title": "SOFTWARE ENGINEERING ESSENTIALS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1008",
+    "title": "TECHNICAL WRITING FOR SOFTWARE ENGINEERS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN1009",
+    "title": "AN INTRODUCTION TO COMPUTING II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2000",
+    "title": "AN INTRODUCTION TO REQUIREMENTS ENGINEERING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2001",
+    "title": "AN INTRODUCTION TO SOFTWARE ENGINEERING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2002",
+    "title": "AN INTRODUCTION TO THE ANALYSIS OF ALGORITHMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2003",
+    "title": "COMPUTER NETWORKING & SECURITY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development",
+      "Networking & Cybersecurity"
+    ],
+    "roles": [
+      "Cybersecurity Analyst",
+      "Software Engineer",
+      "Network Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2004",
+    "title": "COMPUTER ORGANIZATION",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2005",
+    "title": "DATABASE SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Data Science"
+    ],
+    "roles": [
+      "Database Administrator",
+      "Data Analyst"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2006",
+    "title": "DISCRETE MATHEMATICS FOR SOFTWARE ENGINEERS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics",
+      "Software Development"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Software Engineer",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2007",
+    "title": "OBJECT ORIENTED DESIGN AND IMPLEMENTATION",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2013",
+    "title": "ELEMENTARY CHINESE CULTURE AND LANGUAGE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN2014",
+    "title": "INTERMEDIATE CHINESE CULTURE AND LANGUAGE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3000",
+    "title": "APPLICATION DEVELOPMENT FOR IOS DEVICES",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3001",
+    "title": "ANDROID APPLICATION DEVELOPMENT I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3002",
+    "title": "Android Application Development II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3003",
+    "title": "Web & Mobile Application Development I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Mobile App Developer",
+      "Web Developer",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3004",
+    "title": "Web & Mobile Application Development II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Mobile App Developer",
+      "Web Developer",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3120",
+    "title": "Software Architecture",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3130",
+    "title": "PROJECT MANAGEMENT FOR SOFTWARE PROJECTS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development",
+      "Business and Management"
+    ],
+    "roles": [
+      "Software Engineer",
+      "Project Manager",
+      "Business Analyst"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3145",
+    "title": "SOFTWARE MODELLING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3165",
+    "title": "SOFTWARE TESTING",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN3920",
+    "title": "CAPSTONE PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "SWEN4001",
+    "title": "ADVANCED DATABASE SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Data Science"
+    ],
+    "roles": [
+      "Database Administrator",
+      "Data Analyst"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN4008",
+    "title": "IT CERTIFICATION I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "SWEN4050",
+    "title": "SOFTWARE ENGINEERING CAPSTONE PROJECT I ",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "ELET1200",
+    "title": "BASIC CIRCUIT ANALYSIS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET1205",
+    "title": "COMPUTER AIDED DESIGN",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET1210",
+    "title": "DIGITAL ELECTRONICS I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET1215",
+    "title": "DIGITAL ELECTRONICS II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET1220",
+    "title": "INTRODUCTION TO ELECTRONICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2215",
+    "title": "MICROPROCESSORS SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2220",
+    "title": "CIRCUIT SIMULATION AND APPLICATIONS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2225",
+    "title": "DISCRETE COMPONENT ELECTRONICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2230",
+    "title": "DIGITAL COMMUNICATIONS SYSTEMS I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2235",
+    "title": "AUTOMATION TECHNOLOGY AND APPLICATIONS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2240",
+    "title": "SENSORS AND ACTUATION DEVICES",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET2951",
+    "title": "ELECTRONICS EXCHANGE ELECTIVE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3215",
+    "title": "MICROCONTROLLER TECHNOLOGY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3220",
+    "title": "CONTROL SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3230",
+    "title": "ESSENTIALS OF DIGITAL SIGNAL PROCESSING DSP",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3235",
+    "title": "DIGITAL COMMUNICATION SYSTEMS II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3240",
+    "title": "DIGITAL COMMUNICATION SYSTEMS III",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3250",
+    "title": "BIOMEDICAL INSTRUMENTATION",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3255",
+    "title": "WIRELESS COMMUNICATIONS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3260",
+    "title": "ADVANCED MICROPROCESSORS & SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3290",
+    "title": "SEMESTER ELECTRONICS RESEARCH PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ELET3295",
+    "title": "MAJOR ELECTRONICS RESEARCH PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "ELET3298",
+    "title": "GROUP ELECTRONICS RESEARCH PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "ELET3955",
+    "title": "ELECTRONICS INTERNSHIP",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering"
+    ],
+    "roles": [
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS1200",
+    "title": "PHYSICS I: MECHANICS OF TRANSLATIONAL MOTION",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS1205",
+    "title": "PHYSICS II: ROTATION, WAVES AND THERMODYNAMICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS1210",
+    "title": "PHYSICS III: ELECTRIC FIELDS, CURRENTS AND CIRCUITS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Electronics & Electrical Engineering",
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist",
+      "Electrical Engineer",
+      "Electronics Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS1220",
+    "title": "PHYSICS IV: MAGNETISM, ELECTOMAGNETIC WAVES AND OPTICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2400",
+    "title": "MATHEMATICAL METHODS IN PHYSICS I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2405",
+    "title": "MATHEMATICAL METHODS IN PHYSICS II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2410",
+    "title": "MODERN PHYSICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2415",
+    "title": "THEORY OF CLASSICAL MECHANICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2420",
+    "title": "ADVANCED PHYSICS LABORATORY I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2425",
+    "title": "COMPUTATIONAL METHODS IN PHYSICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development",
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist",
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS2950",
+    "title": "PHYSICS ELECTIVE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3420",
+    "title": "ELECTROMAGNETIC THEORY I",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3445",
+    "title": "FUNDAMENTALS OF GENERAL RELATIVITY AND COSMOLOGY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3450",
+    "title": "FLUID MECHANICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3455",
+    "title": "LASERS AND OPTICAL SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3460",
+    "title": "PHYSICS OF SUSTAINABLE ENERGY SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3465",
+    "title": "ELECTROMAGNETIC THEORY II",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3470",
+    "title": "BIOLOGICAL PHYSICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3475",
+    "title": "FUNDAMENTALS OF SOLID STATE PHYSICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3480",
+    "title": "THEORY OF QUANTUM MECHANICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3485",
+    "title": "THEORY OF STATISTICAL MECHANICS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3490",
+    "title": "PHYSICS ONE-SEMESTER RESEARCH PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "PHYS3495",
+    "title": "PHYSICS TWO-SEMESTER RESEARCH PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "PHYS3955",
+    "title": "PHYSICS INTERNSHIP",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Physics & Engineering"
+    ],
+    "roles": [
+      "Research Scientist",
+      "Physicist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH1141",
+    "title": "INTRODUCTORY LINEAR ALGEBRA & ANALYTICAL GEOMETRY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH1152",
+    "title": "SETS AND NUMBER SYSTEMS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH1190",
+    "title": "CALCULUS A",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH1195",
+    "title": "CALCULUS B",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH1230",
+    "title": "INTRODUCTORY APPLIED STATISTICS 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH1235",
+    "title": "PYTHON PROGRAMMING & MATHEMATICAL SOFTWARE",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2304",
+    "title": "MULTIVARIABLE CALCULUS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2305",
+    "title": "DIFFERENTIAL EQUATIONS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2310",
+    "title": "ABSTRACT ALGEBRA 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2315",
+    "title": "LINEAR ALGEBRA 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2321",
+    "title": "REAL ANALYSIS 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2325",
+    "title": "ELEMENTARY NUMBER THEORY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2330",
+    "title": "PROBABILITY THEORY 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH2335",
+    "title": "STATISTICS 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3543",
+    "title": "ABSTRACT ALGEBRA 2",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3545",
+    "title": "LINEAR ALGEBRA 2",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3550",
+    "title": "REAL ANALYSIS 2",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3555",
+    "title": "COMPLEX ANALYSIS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3560",
+    "title": "METRIC SPACES",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3565",
+    "title": "PROBABILITY THEORY 2",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3570",
+    "title": "STATISTICS 2",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3575",
+    "title": "TOPICS IN NUMERICAL ANALYSIS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3580",
+    "title": "FOURIER ANALYSIS WITH PARTIAL DIFFERENTIALS EQUATIONS",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3590",
+    "title": "MATHEMATICS RESEARCH PROJECT",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3600",
+    "title": "TOPICS IN DISCRETE AND COMPUTATIONAL GEOMETRY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Software Development"
+    ],
+    "roles": [
+      "Software Engineer"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3605",
+    "title": "TOPICS IN GRAPH THEORY",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3620",
+    "title": "FINANCIAL MATHEMATICS 1",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3621",
+    "title": "FINANCIAL MATHEMATICS 2",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MATH3955",
+    "title": "MATHEMATICS INTERNSHIP",
+    "department": "Department of Computer Science, Mathematics & Physics",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Mathematics & Analytics"
+    ],
+    "roles": [
+      "Quantitative Analyst",
+      "Mathematician"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC1015",
+    "title": "INTRODUCTION TO BIOCHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biochemistry"
+    ],
+    "roles": [
+      "Biochemist",
+      "Lab Researcher"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL1020",
+    "title": "DIVERSITY OF LIFE I",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL1025",
+    "title": "DIVERSITY OF LIFE II",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL1030",
+    "title": "INTRODUCTION TO GENETICS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC2365",
+    "title": "PRIMARY METABOLISM",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biochemistry"
+    ],
+    "roles": [
+      "Biochemist",
+      "Lab Researcher"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC2366",
+    "title": "PROTEIN BIOCHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biochemistry"
+    ],
+    "roles": [
+      "Biochemist",
+      "Lab Researcher"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC2370",
+    "title": "CELL SIGNALS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC2371",
+    "title": "MOLECULAR TECHNIQUES",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC2900",
+    "title": "BIOCHEMISTRY EXCHANGE ELECTIVE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biochemistry"
+    ],
+    "roles": [
+      "Biochemist",
+      "Lab Researcher"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2166",
+    "title": "ADVANCED GENETICS I",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2370",
+    "title": "FLOWERING PLANT PHYSIOLOGY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2371",
+    "title": "ECOPHYSIOLOGY OF ANIMALS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2372",
+    "title": "PLANTS FOR CARIBBEAN LANDSCAPES",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2373",
+    "title": "SKILLS FOR BIOLOGISTS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2463",
+    "title": "SUSTAINABLE LAND USE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2465",
+    "title": "TROPICAL HORTICULTURE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2466",
+    "title": "TROPICAL ENERGY AND BIOPROCESSING",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL2900",
+    "title": "BIOLOGY EXCHANGE ELECTIVE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL2460",
+    "title": "ESSENTIALS OF ECOLOGY",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL2461",
+    "title": "CARIBBEAN ISLAND BIODIVERSITY",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL2462",
+    "title": "MARINE BIOTA",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL2900",
+    "title": "ECOLOGY EXCHANGE ELECTIVE",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR2260",
+    "title": "ESSENTIAL MICROBIOLOGY",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR2261",
+    "title": "EUKARYOTIC MICROBES",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR2262",
+    "title": "METHODS IN MICROBIOLOGY",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR2900",
+    "title": "MICROBIOLOGY EXCHANGE ELECTIVE",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC3260",
+    "title": "PRINCIPLES OF BIOTECHNOLOGY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC3261",
+    "title": "MITOCHONDRIAL BIOENERGETICS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC3265",
+    "title": "PRINCIPLES OF BIOINFORMATICS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC3290",
+    "title": "BIOCHEMISTRY PROJECT (MINORS)",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biochemistry"
+    ],
+    "roles": [
+      "Biochemist",
+      "Lab Researcher"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC3370",
+    "title": "BASIS OF HUMAN DISEASE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOC3990",
+    "title": "BIOCHEMISTRY PROJECT",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biochemistry"
+    ],
+    "roles": [
+      "Biochemist",
+      "Lab Researcher"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL3501",
+    "title": "PROFESSIONAL PLACEMENT FOR BIOLOGISTS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL3025",
+    "title": "MOLECULAR PLANT PATHOLOGY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL3901",
+    "title": "MULTIDISCIPLINARY PROJECT",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "BIOL3990",
+    "title": "BIOLOGY PROJECT",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL3100",
+    "title": "STATISTICS FOR ECOLOGISTS",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL3460",
+    "title": "BIOLOGY & ECOLOGY OF CORAL REEFS",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL3461",
+    "title": "ECOLOGY OF A CHANGING PLANET",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL3462",
+    "title": "BEHAVIOUR: AN EVOLUTIONARY APPROACH",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL 3463",
+    "title": "TROPICAL CROP ECOLOGY",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ECOL3990",
+    "title": "ECOLOGY PROJECT",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "MICR3265",
+    "title": "MICROBIOLOGY OF FOOD",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR3266",
+    "title": "ECOLOGY OF MICROORGANISMS",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR3267",
+    "title": "ESSENTIAL VIROLOGY",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR3268",
+    "title": "MICROBIAL PATHOGENESIS",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "MICR3990",
+    "title": "MICROBIOLOGY PROJECT",
+    "department": "Unknown Department",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Biological Sciences"
+    ],
+    "roles": [
+      "Microbiologist",
+      "Biologist"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "CHEM1110",
+    "title": "INTRODUCTION TO ORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM1120",
+    "title": "INTRODUCTION TO PHYSICAL CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM1125",
+    "title": "INTRODUCTION TO EXPERIMENTAL CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM1130",
+    "title": "INTRODUCTION TO INORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2513",
+    "title": "FUNDAMENTALS OF TEACHING CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2700",
+    "title": "INTERMEDIATE INORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2705",
+    "title": "INTERMEDIATE ORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2710",
+    "title": "INTERMEDIATE PHYSICAL CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2715",
+    "title": "LABORATORY METHODS IN CHEMISTRY I",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2720",
+    "title": "LABORATORY METHODS IN CHEMISTRY II",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2725",
+    "title": "CHEMISTRY OF THE ENVIRONMENT",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2730",
+    "title": "QUANTITATIVE CHEMICAL ANALYSIS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM2950",
+    "title": "CHEMISTRY ELECTIVE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3167",
+    "title": "ADVANCED INORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3175",
+    "title": "ADVANCED ORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3218",
+    "title": "ENVIRONMENTAL CHEMISTRY AND TOXICOLOGY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3620",
+    "title": "ADVANCED PHYSICAL CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3625",
+    "title": "LABORATORY METHODS IN CHEMISTRY III",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3630",
+    "title": "METHODS IN INSTRUMENTAL ANALYSIS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3635",
+    "title": "BIOLOGICAL INORGANIC CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3800",
+    "title": "NANOSTRUCTURES AND SUPRAMOLECULAR CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3950",
+    "title": "BASIC PROJECT IN CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3955",
+    "title": "RESEARCH PROJECT IN CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3990",
+    "title": "PROFESSIONAL PLACEMENT FOR CHEMISTS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "CHEM3992",
+    "title": "SPECIAL TOPICS IN PHYSICAL CHEMISTRY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC1000",
+    "title": "EARTH AND ITS ENVIRONMENT",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC1005",
+    "title": "Landform Dynamics",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC2000",
+    "title": "ESSENTIALS OF OCEANOGRAPHY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC2002",
+    "title": "EARTH’S CLIMATE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Meteorology & Climate Science"
+    ],
+    "roles": [
+      "Climate Scientist",
+      "Meteorologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC2003",
+    "title": "SUSTAINABLE ENERGY SYSTEMS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC2005",
+    "title": "EARTH LIFE CYCLES",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC2900",
+    "title": "ENVIRONMENTAL SCIENCE EXCHANGE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3000",
+    "title": "CLIMATE VARIATION AND CHANGE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Meteorology & Climate Science"
+    ],
+    "roles": [
+      "Climate Scientist",
+      "Meteorologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3001",
+    "title": "NATURAL HAZARDS AND DISASTERS",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3005",
+    "title": "URBAN GEOMORPHOLOGY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3020",
+    "title": "CASE STUDY IN ENVIRONMENTAL SCIENCE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3090",
+    "title": "PROFESSIONAL PLACEMENT FOR ENVIRONMENTAL SCIENCE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3900",
+    "title": "RESEARCH PROJECT IN ENVIRONMENTAL SCIENCE",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 6
+  },
+  {
+    "coursecode": "ENSC3100",
+    "title": "PRINCIPLES OF SUSTAINABILITY",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Environmental Science"
+    ],
+    "roles": [
+      "Sustainability Consultant",
+      "Environmental Scientist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3101",
+    "title": "CLIMATE & WEATHER IN THE CARIBBEAN",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "Meteorology & Climate Science"
+    ],
+    "roles": [
+      "Climate Scientist",
+      "Meteorologist"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3102",
+    "title": "BIODIVERSITY IN THE CARIBBEAN",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  },
+  {
+    "coursecode": "ENSC3901",
+    "title": "BARBADOS RESEARCH PROJECT",
+    "department": "Department of Biological & Chemical Sciences",
+    "faculty": "Faculty of Science and Technology",
+    "tags": [
+      "General Science & Technology"
+    ],
+    "roles": [
+      "Research Assistant"
+    ],
+    "lecturer": null,
+    "credits": 3
+  }
+]
