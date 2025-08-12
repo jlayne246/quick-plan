@@ -1,0 +1,1747 @@
+{
+  "programmes": [
+    {
+      "name": "BSc Computer Science and Accounting",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "COMP2210 Mathematics for Computer Science II",
+          "COMP2220 Computer System Architecture",
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2611 Data Structures",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I",
+          "MGMT2023 Financial Management I",
+          "Six (6) Credits from Level II Accounting/Management Courses"
+        ],
+        "Level III": [
+          "COMP3310 Algorithms",
+          "COMP3320 Design Principles of Operating Systems",
+          "COMP3330 Database Management Systems I",
+          "ACCT3043 Auditing I",
+          "ACCT3040 Advanced Accounting Theory OR ACCT3041 Advanced Financial Accounting",
+          "Six (6) Credits from Level III Accounting Courses",
+          "Six (6) Credits from Computer Science Elective Courses (including at least one Level III course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science with Accounting",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "COMP2210 Mathematics for Computer Science II",
+          "COMP2220 Computer System Architecture",
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2611 Data Structures",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I"
+        ],
+        "Level III": [
+          "COMP3310 Algorithms",
+          "COMP3320 Design Principles of Operating Systems",
+          "COMP3330 Database Management Systems I",
+          "ACCT3043 Auditing I",
+          "ACCT3040 Advanced Accounting Theory OR ACCT3041 Advanced Financial Accounting",
+          "Six (6) Credits from Computer Science Elective Courses (including at least one Level III course)",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science and Economics",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics"
+        ],
+        "Level II": [
+          "COMP2210 Mathematics for Computer Science II",
+          "COMP2220 Computer System Architecture",
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2611 Data Structures",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II",
+          "ECON2026 Statistical Methods II"
+        ],
+        "Level III": [
+          "COMP3310 Algorithms",
+          "COMP3320 Design Principles of Operating Systems",
+          "COMP3330 Database Management Systems I",
+          "ECON3049 Econometrics I",
+          "Four (4) Level II/III ECON courses (12 Credits)",
+          "Six (6) Credits from Computer Science Elective Courses (including at least one Level III course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Computer Science with Economics",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics"
+        ],
+        "Level II": [
+          "COMP2210 Mathematics for Computer Science II",
+          "COMP2220 Computer System Architecture",
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2611 Data Structures",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II",
+          "One (1) Level II/III ECON course (3 Credits)"
+        ],
+        "Level III": [
+          "COMP3310 Algorithms",
+          "COMP3320 Design Principles of Operating Systems",
+          "COMP3330 Database Management Systems I",
+          "Six (6) Credits from Computer Science Elective Courses (including at least one Level III course)",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science and Management",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2210 Mathematics for Computer Science II",
+          "COMP2220 Computer System Architecture",
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2611 Data Structures",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2020 Managerial Economics",
+          "MGMT2021 Business Law I",
+          "MGMT2023 Financial Management I",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Level III": [
+          "COMP3310 Algorithms",
+          "COMP3320 Design Principles of Operating Systems",
+          "COMP3330 Database Management Systems I",
+          "MGMT2026 Production & Operations Management",
+          "MGMT3031 Business Strategy and Policy",
+          "MGMT3033 Business, Government and Society",
+          "Six (6) Credits from Computer Science Elective Courses (including at least one Level III course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science with Management",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2210 Mathematics for Computer Science II",
+          "COMP2220 Computer System Architecture",
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2611 Data Structures",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Level III": [
+          "COMP3310 Algorithms",
+          "COMP3320 Design Principles of Operating Systems",
+          "COMP3330 Database Management Systems I",
+          "Six (6) Credits from Computer Science Elective Courses (including at least one Level III course)",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Information Technology and Accounting",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2410 Computing in the Digital Age",
+          "COMP2415 Information Technology Engineering",
+          "COMP2611 Data Structures",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I",
+          "MGMT2023 Financial Management I",
+          "Level II Accounting/Management Courses"
+        ],
+        "Level III": [
+          "COMP3330 Database Management Systems I",
+          "COMP3415 Database Management Systems II",
+          "COMP3435 User Interface Design",
+          "ACCT3043 Auditing I",
+          "ACCT3040 Advanced Accounting Theory OR ACCT3041 Advanced Financial Accounting",
+          "Six (6) Credits from Level III Accounting Courses",
+          "Six (6) Credits from Information Technology Elective Courses (including at least one Level III course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Information Technology with Accounting",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2410 Computing in the Digital Age",
+          "COMP2415 Information Technology Engineering",
+          "COMP2611 Data Structures",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I"
+        ],
+        "Level III": [
+          "COMP3330 Database Management Systems I",
+          "COMP3415 Database Management Systems II",
+          "COMP3435 User Interface Design",
+          "ACCT3043 Auditing I",
+          "ACCT3040 Advanced Accounting Theory OR ACCT3041 Advanced Financial Accounting",
+          "Six (6) Credits from Information Technology Elective Courses (including at least one Level III course)",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Information Technology and Economics",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics"
+        ],
+        "Level II": [
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2410 Computing in the Digital Age",
+          "COMP2415 Information Technology Engineering",
+          "COMP2611 Data Structures",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II",
+          "ECON2026 Statistical Methods II"
+        ],
+        "Level III": [
+          "COMP3330 Database Management Systems I",
+          "COMP3415 Database Management Systems II",
+          "COMP3435 User Interface Design",
+          "ECON3049 Econometrics I",
+          "Four (4) Level II/III ECON courses (12 Credits)",
+          "Six (6) Credits from Information Technology Elective Courses (including at least one Level III course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Information Technology Science with Economics",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics"
+        ],
+        "Level II": [
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2410 Computing in the Digital Age",
+          "COMP2415 Information Technology Engineering",
+          "COMP2611 Data Structures",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II",
+          "One (1) Level II/III ECON course (3 Credits)"
+        ],
+        "Level III": [
+          "COMP3330 Database Management Systems I",
+          "COMP3415 Database Management Systems II",
+          "COMP3435 User Interface Design",
+          "Six (6) Credits from Information Technology Elective Courses (including at least one Level III course)",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Information Technology and Management",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2410 Computing in the Digital Age",
+          "COMP2415 Information Technology Engineering",
+          "COMP2611 Data Structures",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2020 Managerial Economics",
+          "MGMT2021 Business Law I",
+          "MGMT2023 Financial Management I",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Level III": [
+          "COMP3330 Database Management Systems I",
+          "COMP3415 Database Management Systems II",
+          "COMP3435 User Interface Design",
+          "MGMT2026 Production & Operations Management",
+          "MGMT3031 Business Strategy and Policy",
+          "MGMT3033 Business, Government and Society",
+          "Six (6) Credits from Information Technology Elective Courses (including at least one Level III course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Information Technology with Management",
+      "levels": {
+        "Level I": [
+          "COMP1170 Entrepreneurship for Computer Scientists",
+          "COMP1180 Mathematics for Computer Science I",
+          "COMP1205 Computing I",
+          "COMP1210 Computing II",
+          "COMP1215 UNIX",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2225 Software Engineering",
+          "COMP2232 Object-Oriented Programming Concepts",
+          "COMP2410 Computing in the Digital Age",
+          "COMP2415 Information Technology Engineering",
+          "COMP2611 Data Structures",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Level III": [
+          "COMP3330 Database Management Systems I",
+          "COMP3415 Database Management Systems II",
+          "COMP3435 User Interface Design",
+          "Six (6) Credits from Information Technology Elective Courses (including at least one Level III course)",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Mathematics and Accounting",
+      "levels": {
+        "Level I": [
+          "MATH1141 Introductory Linear Algebra & Analytical Geometry",
+          "MATH1152 Sets and Number Systems",
+          "MATH1190 Calculus A",
+          "MATH1195 Calculus B",
+          "MATH1230 Introductory Applied Statistics 1",
+          "MATH1235 Python Programming & Mathematical Software",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "MATH2304 Multivariable Calculus",
+          "MATH2305 Differential Equations",
+          "MATH2310 Abstract Algebra 1",
+          "MATH2315 Linear Algebra 1",
+          "MATH2321 Real Analysis 1",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "MGMT2023 Financial Management I",
+          "Six (6) Credits from Level II Accounting/Management Courses"
+        ],
+        "Level III": [
+          "MATH3543 Abstract Algebra 2",
+          "MATH3545 Linear Algebra 2",
+          "MATH3550 Real Analysis 2",
+          "MATH3555 Complex Analysis OR MATH3560 Metric Spaces",
+          "ACCT2017 Management Accounting I",
+          "ACCT3043 Auditing I",
+          "ACCT3040 Advanced Accounting Theory OR ACCT3041 Advanced Financial Accounting",
+          "Six (6) Credits from Level III Accounting Courses",
+          "Three (3) Credits from Level II/III Mathematics Elective Courses"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Mathematics with Accounting",
+      "levels": {
+        "Level I": [
+          "MATH1141 Introductory Linear Algebra & Analytical Geometry",
+          "MATH1152 Sets and Number Systems",
+          "MATH1190 Calculus A",
+          "MATH1195 Calculus B",
+          "MATH1230 Introductory Applied Statistics 1",
+          "MATH1235 Python Programming & Mathematical Software",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "MATH2304 Multivariable Calculus",
+          "MATH2305 Differential Equations",
+          "MATH2310 Abstract Algebra 1",
+          "MATH2315 Linear Algebra 1",
+          "MATH2321 Real Analysis 1",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I"
+        ],
+        "Level III": [
+          "MATH3543 Abstract Algebra 2",
+          "MATH3545 Linear Algebra 2",
+          "MATH3550 Real Analysis 2",
+          "MATH3555 Complex Analysis OR MATH3560 Metric Spaces",
+          "ACCT3043 Auditing I",
+          "ACCT3040 Advanced Accounting Theory OR ACCT3041 Advanced Financial Accounting",
+          "Three (3) Credits from Level II/III Mathematics Elective Courses",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Mathematics and Economics",
+      "levels": {
+        "Level I": [
+          "MATH1141 Introductory Linear Algebra & Analytical Geometry",
+          "MATH1152 Sets and Number Systems",
+          "MATH1190 Calculus A",
+          "MATH1195 Calculus B",
+          "MATH1230 Introductory Applied Statistics 1",
+          "MATH1235 Python Programming & Mathematical Software",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics"
+        ],
+        "Level II": [
+          "MATH2304 Multivariable Calculus",
+          "MATH2305 Differential Equations",
+          "MATH2310 Abstract Algebra 1",
+          "MATH2315 Linear Algebra 1",
+          "MATH2321 Real Analysis 1",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II",
+          "ECON2026 Statistical Methods II"
+        ],
+        "Level III": [
+          "MATH3543 Abstract Algebra 2",
+          "MATH3545 Linear Algebra 2",
+          "MATH3550 Real Analysis 2",
+          "ECON3049 Econometrics I",
+          "MATH3555 Complex Analysis OR MATH3560 Metric Spaces",
+          "Twelve (12) Credits from Level II/III ECON courses",
+          "Three (3) Credits from Level II/III Mathematics Elective Courses"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Mathematics with Economics",
+      "levels": {
+        "Level I": [
+          "MATH1141 Introductory Linear Algebra & Analytical Geometry",
+          "MATH1152 Sets and Number Systems",
+          "MATH1190 Calculus A",
+          "MATH1195 Calculus B",
+          "MATH1235 Python Programming & Mathematical Software",
+          "MATH1230 Introductory Applied Statistics 1",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics"
+        ],
+        "Level II": [
+          "MATH2304 Multivariable Calculus",
+          "MATH2305 Differential Equations",
+          "MATH2310 Abstract Algebra 1",
+          "MATH2315 Linear Algebra 1",
+          "MATH2321 Real Analysis 1",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II",
+          "One (1) Level II/III ECON course (3 Credits)"
+        ],
+        "Level III": [
+          "MATH3543 Abstract Algebra 2",
+          "MATH3545 Linear Algebra 2",
+          "MATH3550 Real Analysis 2",
+          "MATH3555 Complex Analysis OR MATH3560 Metric Spaces",
+          "Three (3) Credits from Level II/III Mathematics Elective Courses",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Science and Management",
+      "levels": {
+        "Level I": [
+          "Required Level I Courses for the Science Major",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "Ten (10) Courses of Required Level II/III Courses for Science Major",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2020 Managerial Economics",
+          "MGMT2021 Business Law I",
+          "MGMT2023 Financial Management I",
+          "MGMT2026 Production & Operations Management",
+          "MGMT3017 Human Resources Management",
+          "MGMT3031 Business Strategy and Policy",
+          "MGMT3033 Business, Government and Society"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Science with Management",
+      "levels": {
+        "Level I": [
+          "Required Level I Courses for the Science Major",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "Ten (10) Courses of Required Level II/III Courses for Science Major",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Level III": [
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Biochemistry and Management",
+      "levels": {
+        "Level I": [
+          "BIOC1015 Introduction to Biochemistry",
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "BIOC2365 Primary Metabolism",
+          "BIOC2366 Protein Biochemistry",
+          "BIOC2371 Molecular Techniques",
+          "BIOL2373 Skills for Biologists",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2020 Managerial Economics",
+          "MGMT2021 Business Law I",
+          "MGMT2023 Financial Management I",
+          "MGMT2026 Production & Operations Management",
+          "Three (3) Credits from: BIOC2370 Cell Signal OR BIOL2166 Advanced Genetics I"
+        ],
+        "Level III": [
+          "BIOC3265 Principles of Bioinformatics",
+          "MGMT3017 Human Resources Management",
+          "MGMT3031 Business Strategy and Policy",
+          "MGMT3033 Business, Government and Society",
+          "Twelve (12) Credits from Biochemistry Electives"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Biochemistry with Management",
+      "levels": {
+        "Level I": [
+          "BIOC1015 Introduction to Biochemistry",
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "BIOC2365 Primary Metabolism",
+          "BIOC2366 Protein Biochemistry",
+          "BIOC2371 Molecular Techniques",
+          "BIOL2373 Skills for Biologists",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I",
+          "Three (3) Credits from: BIOC2370 Cell Signal OR BIOL2166 Advanced Genetics I"
+        ],
+        "Level III": [
+          "BIOC3265 Principles of Bioinformatics",
+          "MGMT3017 Human Resources Management",
+          "Twelve (12) Credits from Biochemistry Electives",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Biology and Management",
+      "levels": {
+        "Level I": [
+          "BIOC1015 Introduction to Biochemistry",
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "BIOC2371 Molecular Techniques",
+          "BIOL2373 Skills for Biologists",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2020 Managerial Economics",
+          "MGMT2021 Business Law I",
+          "MGMT2023 Financial Management I",
+          "MGMT2026 Production & Operations Management",
+          "Six (6) Credits from Biology Electives",
+          "Six (6) Credits from Advanced Genetics/Physiology Electives",
+          "Six (6) Credits from Level II/III Biological Sciences Elective Courses"
+        ],
+        "Level III": [
+          "MGMT3017 Human Resources Management",
+          "MGMT3031 Business Strategy and Policy",
+          "MGMT3033 Business, Government and Society",
+          "Six (6) Credits from Level III Biological Sciences Elective Courses"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Biology with Management",
+      "levels": {
+        "Level I": [
+          "BIOC1015 Introduction to Biochemistry",
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "BIOC2371 Molecular Techniques",
+          "BIOL2373 Skills for Biologists",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I",
+          "Six (6) Credits from Biology Electives",
+          "Six (6) Credits from Advanced Genetics/Physiology Electives",
+          "Six (6) Credits from Level II/III Biological Sciences Elective Courses"
+        ],
+        "Level III": [
+          "MGMT3017 Human Resources Management",
+          "Six (6) Credits from Level III Biological Sciences Elective Courses",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Chemistry and Management",
+      "levels": {
+        "Level I": [
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "CHEM2700 Intermediate Inorganic Chemistry",
+          "CHEM2705 Intermediate Organic Chemistry",
+          "CHEM2710 Intermediate Physical Chemistry",
+          "CHEM2715 Laboratory Methods in Chemistry I",
+          "CHEM2720 Laboratory Methods in Chemistry II",
+          "CHEM2730 Quantitative Chemical Analysis",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2020 Managerial Economics",
+          "MGMT2021 Business Law I",
+          "MGMT2023 Financial Management I",
+          "MGMT2026 Production & Operations Management"
+        ],
+        "Level III": [
+          "CHEM3625 Laboratory Methods in Chemistry III",
+          "MGMT3017 Human Resources Management",
+          "MGMT3031 Business Strategy and Policy",
+          "MGMT3033 Business, Government and Society",
+          "Six (6) Credits from Advanced Chemistry Electives",
+          "Three (3) Credits from Instrumental/Environmental Chemistry Electives"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Chemistry with Management",
+      "levels": {
+        "Level I": [
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "CHEM2700 Intermediate Inorganic Chemistry",
+          "CHEM2705 Intermediate Organic Chemistry",
+          "CHEM2710 Intermediate Physical Chemistry",
+          "CHEM2715 Laboratory Methods in Chemistry I",
+          "CHEM2720 Laboratory Methods in Chemistry II",
+          "CHEM2730 Quantitative Chemical Analysis",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "CHEM3625 Laboratory Methods in Chemistry III",
+          "MGMT3017 Human Resources Management",
+          "Six (6) Credits from Advanced Chemistry Electives",
+          "Three (3) Credits from Instrumental/Environmental Chemistry Electives",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Computer Science and Accounting",
+      "levels": {
+        "Level I": [
+          "COMP1126 Introduction to Computing I",
+          "COMP1127 Introduction to Computing II",
+          "COMP1161 Object-Oriented Programming",
+          "COMP1210 Mathematics for Computing",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2140 Software Engineering",
+          "COMP2160 Object-Oriented Design",
+          "COMP2190 Computer Architecture",
+          "COMP2201 Discrete Mathematics",
+          "COMP2240 Operating Systems",
+          "COMP2280 Data Structures",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I",
+          "ACCT2018 Management Accounting II"
+        ],
+        "Level III": [
+          "COMP3161 Design and Analysis of Algorithms",
+          "COMP3191 Computer Networks",
+          "COMP3220 Theory of Computation",
+          "COMP3340 Database Management Systems",
+          "ACCT3021 Taxation I",
+          "ACCT3023 Auditing I",
+          "ACCT3025 Accounting Theory",
+          "ACCT3026 Financial Statement Analysis"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science and Economics",
+      "levels": {
+        "Level I": [
+          "COMP1126 Introduction to Computing I",
+          "COMP1127 Introduction to Computing II",
+          "COMP1161 Object-Oriented Programming",
+          "COMP1210 Mathematics for Computing",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "ECON1004 Maths for Social Sciences II",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2140 Software Engineering",
+          "COMP2160 Object-Oriented Design",
+          "COMP2190 Computer Architecture",
+          "COMP2201 Discrete Mathematics",
+          "COMP2240 Operating Systems",
+          "COMP2280 Data Structures",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II"
+        ],
+        "Level III": [
+          "COMP3161 Design and Analysis of Algorithms",
+          "COMP3191 Computer Networks",
+          "COMP3220 Theory of Computation",
+          "COMP3340 Database Management Systems",
+          "ECON3005 Applied Econometrics",
+          "ECON3010 Caribbean Economic Development",
+          "ECON3011 Economics of Sustainable Development",
+          "ECON3012 International Trade Policy"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science and Management",
+      "levels": {
+        "Level I": [
+          "COMP1126 Introduction to Computing I",
+          "COMP1127 Introduction to Computing II",
+          "COMP1161 Object-Oriented Programming",
+          "COMP1210 Mathematics for Computing",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2140 Software Engineering",
+          "COMP2160 Object-Oriented Design",
+          "COMP2190 Computer Architecture",
+          "COMP2201 Discrete Mathematics",
+          "COMP2240 Operating Systems",
+          "COMP2280 Data Structures",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "COMP3161 Design and Analysis of Algorithms",
+          "COMP3191 Computer Networks",
+          "COMP3220 Theory of Computation",
+          "COMP3340 Database Management Systems",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+        {
+      "name": "BSc Computer Science with Accounting",
+      "levels": {
+        "Level I": [
+          "COMP1126 Introduction to Computing I",
+          "COMP1127 Introduction to Computing II",
+          "COMP1161 Object-Oriented Programming",
+          "COMP1210 Mathematics for Computing",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2140 Software Engineering",
+          "COMP2160 Object-Oriented Design",
+          "COMP2190 Computer Architecture",
+          "COMP2201 Discrete Mathematics",
+          "COMP2240 Operating Systems",
+          "COMP2280 Data Structures",
+          "ACCT2014 Financial Accounting I",
+          "ACCT2015 Financial Accounting II",
+          "ACCT2017 Management Accounting I",
+          "ACCT2018 Management Accounting II"
+        ],
+        "Level III": [
+          "COMP3161 Design and Analysis of Algorithms",
+          "COMP3191 Computer Networks",
+          "COMP3220 Theory of Computation",
+          "COMP3340 Database Management Systems",
+          "ACCT3021 Taxation I",
+          "ACCT3023 Auditing I",
+          "ACCT3025 Accounting Theory",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science with Economics",
+      "levels": {
+        "Level I": [
+          "COMP1126 Introduction to Computing I",
+          "COMP1127 Introduction to Computing II",
+          "COMP1161 Object-Oriented Programming",
+          "COMP1210 Mathematics for Computing",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "ECON1004 Maths for Social Sciences II",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2140 Software Engineering",
+          "COMP2160 Object-Oriented Design",
+          "COMP2190 Computer Architecture",
+          "COMP2201 Discrete Mathematics",
+          "COMP2240 Operating Systems",
+          "COMP2280 Data Structures",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II"
+        ],
+        "Level III": [
+          "COMP3161 Design and Analysis of Algorithms",
+          "COMP3191 Computer Networks",
+          "COMP3220 Theory of Computation",
+          "COMP3340 Database Management Systems",
+          "ECON3005 Applied Econometrics",
+          "ECON3010 Caribbean Economic Development",
+          "ECON3011 Economics of Sustainable Development",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Computer Science with Management",
+      "levels": {
+        "Level I": [
+          "COMP1126 Introduction to Computing I",
+          "COMP1127 Introduction to Computing II",
+          "COMP1161 Object-Oriented Programming",
+          "COMP1210 Mathematics for Computing",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "COMP2140 Software Engineering",
+          "COMP2160 Object-Oriented Design",
+          "COMP2190 Computer Architecture",
+          "COMP2201 Discrete Mathematics",
+          "COMP2240 Operating Systems",
+          "COMP2280 Data Structures",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "COMP3161 Design and Analysis of Algorithms",
+          "COMP3191 Computer Networks",
+          "COMP3220 Theory of Computation",
+          "COMP3340 Database Management Systems",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Environmental Science",
+      "levels": {
+        "Level I": [
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "PHYS1410 Mechanics and Waves",
+          "PHYS1420 Electricity and Magnetism",
+          "MATH1230 Introductory Applied Statistics 1"
+        ],
+        "Level II": [
+          "BIOL2401 Ecology",
+          "BIOL2402 Environmental Biology",
+          "BIOL2403 Environmental Microbiology",
+          "CHEM2730 Quantitative Chemical Analysis",
+          "CHEM2740 Environmental Chemistry",
+          "GEOG2102 Geographies of Development",
+          "GEOG2103 Environmental Geography",
+          "GEOG2104 Introduction to Geographic Information Systems",
+          "GEOG2105 Research Methods in Geography",
+          "MGMT2006 Information Systems I"
+        ],
+        "Level III": [
+          "BIOL3401 Conservation Biology",
+          "BIOL3402 Environmental Impact Assessment",
+          "BIOL3403 Pollution Biology",
+          "GEOG3101 Natural Hazards",
+          "GEOG3102 Climate Change and Society",
+          "GEOG3103 Advanced GIS",
+          "GEOG3104 Sustainable Development",
+          "GEOG3105 Caribbean Environmental Issues"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Environmental Science and Management",
+      "levels": {
+        "Level I": [
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "PHYS1410 Mechanics and Waves",
+          "PHYS1420 Electricity and Magnetism",
+          "MATH1230 Introductory Applied Statistics 1"
+        ],
+        "Level II": [
+          "BIOL2401 Ecology",
+          "BIOL2402 Environmental Biology",
+          "BIOL2403 Environmental Microbiology",
+          "CHEM2730 Quantitative Chemical Analysis",
+          "CHEM2740 Environmental Chemistry",
+          "GEOG2102 Geographies of Development",
+          "GEOG2103 Environmental Geography",
+          "GEOG2104 Introduction to Geographic Information Systems",
+          "GEOG2105 Research Methods in Geography",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "BIOL3401 Conservation Biology",
+          "BIOL3402 Environmental Impact Assessment",
+          "BIOL3403 Pollution Biology",
+          "GEOG3101 Natural Hazards",
+          "GEOG3102 Climate Change and Society",
+          "GEOG3103 Advanced GIS",
+          "GEOG3104 Sustainable Development",
+          "GEOG3105 Caribbean Environmental Issues",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Environmental Science with Management",
+      "levels": {
+        "Level I": [
+          "BIOL1020 Diversity of Life I",
+          "BIOL1025 Diversity of Life II",
+          "BIOL1030 Introduction to Genetics",
+          "CHEM1110 Introduction to Organic Chemistry",
+          "CHEM1120 Introduction to Physical Chemistry",
+          "CHEM1125 Introduction to Experimental Chemistry",
+          "CHEM1130 Introduction to Inorganic Chemistry",
+          "PHYS1410 Mechanics and Waves",
+          "PHYS1420 Electricity and Magnetism",
+          "MATH1230 Introductory Applied Statistics 1"
+        ],
+        "Level II": [
+          "BIOL2401 Ecology",
+          "BIOL2402 Environmental Biology",
+          "BIOL2403 Environmental Microbiology",
+          "CHEM2730 Quantitative Chemical Analysis",
+          "CHEM2740 Environmental Chemistry",
+          "GEOG2102 Geographies of Development",
+          "GEOG2103 Environmental Geography",
+          "GEOG2104 Introduction to Geographic Information Systems",
+          "GEOG2105 Research Methods in Geography",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "BIOL3401 Conservation Biology",
+          "BIOL3402 Environmental Impact Assessment",
+          "BIOL3403 Pollution Biology",
+          "GEOG3101 Natural Hazards",
+          "GEOG3102 Climate Change and Society",
+          "GEOG3103 Advanced GIS",
+          "GEOG3104 Sustainable Development",
+          "GEOG3105 Caribbean Environmental Issues",
+          "MGMT3017 Human Resources Management"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Mathematics and Economics",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "ECON1004 Maths for Social Sciences II",
+          "ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2120 Real Analysis",
+          "MATH2140 Abstract Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3120 Metric Spaces",
+          "MATH3130 Numerical Analysis",
+          "ECON3005 Applied Econometrics",
+          "ECON3010 Caribbean Economic Development",
+          "ECON3011 Economics of Sustainable Development",
+          "ECON3012 International Trade Policy"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Mathematics and Management",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2120 Real Analysis",
+          "MATH2140 Abstract Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3120 Metric Spaces",
+          "MATH3130 Numerical Analysis",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Mathematics with Economics",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "ECON1004 Maths for Social Sciences II",
+          "ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2120 Real Analysis",
+          "MATH2140 Abstract Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3120 Metric Spaces",
+          "MATH3130 Numerical Analysis",
+          "ECON3005 Applied Econometrics",
+          "ECON3010 Caribbean Economic Development",
+          "ECON3011 Economics of Sustainable Development",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+        {
+      "name": "BSc Mathematics with Management",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2120 Real Analysis",
+          "MATH2140 Abstract Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3120 Metric Spaces",
+          "MATH3130 Numerical Analysis",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Physics and Management",
+      "levels": {
+        "Level I": [
+          "PHYS1410 Mechanics and Waves",
+          "PHYS1420 Electricity and Magnetism",
+          "PHYS1430 Modern Physics",
+          "PHYS1440 Introductory Physics Laboratory",
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management"
+        ],
+        "Level II": [
+          "PHYS2410 Classical Mechanics",
+          "PHYS2420 Electromagnetism",
+          "PHYS2430 Quantum Physics",
+          "PHYS2440 Thermal Physics",
+          "PHYS2450 Physics Laboratory II",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "PHYS3410 Solid State Physics",
+          "PHYS3420 Nuclear Physics",
+          "PHYS3430 Statistical Physics",
+          "PHYS3440 Physics Laboratory III",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Statistics and Economics",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1002 Introduction to Macroeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "ECON1004 Maths for Social Sciences II",
+          "ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "MATH2250 Probability and Distribution Theory",
+          "MATH2260 Inferential Statistics",
+          "ECON2000 Intermediate Microeconomics I",
+          "ECON2001 Intermediate Microeconomics II",
+          "ECON2002 Intermediate Macroeconomics I",
+          "ECON2003 Intermediate Macroeconomics II"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3130 Numerical Analysis",
+          "MATH3250 Applied Statistics",
+          "ECON3005 Applied Econometrics",
+          "ECON3010 Caribbean Economic Development",
+          "ECON3011 Economics of Sustainable Development",
+          "ECON3012 International Trade Policy"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+
+    {
+      "name": "BSc Statistics and Management",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "MATH2250 Probability and Distribution Theory",
+          "MATH2260 Inferential Statistics",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3130 Numerical Analysis",
+          "MATH3250 Applied Statistics",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    },
+    {
+      "name": "BSc Statistics with Management",
+      "levels": {
+        "Level I": [
+          "MATH1141 Algebra",
+          "MATH1151 Calculus I",
+          "MATH1152 Calculus II",
+          "MATH1185 Introduction to Linear Algebra",
+          "ACCT1002 Introduction to Financial Accounting",
+          "ACCT1003 Introduction to Cost and Management Accounting",
+          "ECON1001 Introduction to Microeconomics",
+          "ECON1003 Maths for Social Sciences I",
+          "MGMT1000 Information Technology Literacy",
+          "MGMT1001 Introduction to Management",
+          "MATH1230 Introductory Applied Statistics 1 OR ECON1005 Introductory Statistics"
+        ],
+        "Level II": [
+          "MATH2110 Linear Algebra",
+          "MATH2150 Calculus III",
+          "MATH2160 Differential Equations",
+          "MATH2250 Probability and Distribution Theory",
+          "MATH2260 Inferential Statistics",
+          "MKTG2001 Principles of Marketing",
+          "MGMT2006 Information Systems I",
+          "MGMT2008 Organizational Behaviour",
+          "MGMT2023 Financial Management I"
+        ],
+        "Level III": [
+          "MATH3101 Optimization",
+          "MATH3110 Complex Variables",
+          "MATH3130 Numerical Analysis",
+          "MATH3250 Applied Statistics",
+          "MGMT3017 Human Resources Management",
+          "Fifteen (15) Levels II/III Credits from any Faculty (Three (3) of these credits can come from a Co-curricular course)"
+        ],
+        "Foundation": [
+          "FOUN1006 Exposition for Academic Purposes OR FOUN1008 An Introduction to Professional Writing",
+          "FOUN1101 Caribbean Civilization",
+          "FOUN1301 Law, Economy, Governance and Society"
+        ]
+      }
+    }
+
+  ]
+}
