@@ -35,12 +35,13 @@ const Index = () => {
   );
 
   const filtered = useMemo(() => {
+    const qRaw = search.trim().toLowerCase();
+    if (!qRaw) return [] as Course[];
     return allCourses.filter((c) => {
-      const q = search.toLowerCase();
       const matchesQuery =
-        c.code.toLowerCase().includes(q) ||
-        c.title.toLowerCase().includes(q) ||
-        c.instructor.toLowerCase().includes(q);
+        c.code.toLowerCase().includes(qRaw) ||
+        c.title.toLowerCase().includes(qRaw) ||
+        c.instructor.toLowerCase().includes(qRaw);
       const matchesDept = department === "All" || c.department === department;
       const matchesCredits = credits === "Any" || c.credits === Number(credits);
       return matchesQuery && matchesDept && matchesCredits;
@@ -97,7 +98,13 @@ const Index = () => {
             onCredits={setCredits}
           />
 
-          <CourseList courses={filtered} canAdd={canAdd} onAdd={onAdd} />
+          {search.trim() ? (
+            <CourseList courses={filtered} canAdd={canAdd} onAdd={onAdd} />
+          ) : (
+            <div className="p-6 border rounded-md text-sm text-muted-foreground">
+              Start typing to search courses by code, title, or instructor.
+            </div>
+          )}
         </div>
 
         <aside className="space-y-6">
