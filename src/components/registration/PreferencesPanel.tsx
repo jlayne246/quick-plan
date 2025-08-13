@@ -98,7 +98,7 @@ export const PreferencesPanel: React.FC<Props> = ({ majors, allCareers, allCours
         </div>
       </div>
 
-      <div className="grid grid-cols-2 gap-4 items-end">
+      {/* <div className="grid grid-cols-1 gap-4 items-end"> */}
         <div>
           <Label htmlFor="targetCredits" className="mb-2 inline-block">Target credits</Label>
           <Input
@@ -137,7 +137,7 @@ export const PreferencesPanel: React.FC<Props> = ({ majors, allCareers, allCours
           </ScrollArea>
           <p className="text-xs text-muted-foreground mt-2">Tick all courses you've already completed.</p>
         </div>
-      </div>
+      {/* </div> */}
     </Card>
   );
 };
