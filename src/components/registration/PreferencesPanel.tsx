@@ -3,6 +3,8 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
+import { Checkbox } from "@/components/ui/checkbox";
+import { ScrollArea } from "@/components/ui/scroll-area";
 import React from "react";
 
 export type Preferences = {
@@ -16,17 +18,30 @@ export type Preferences = {
 interface Props {
   majors: string[];
   allCareers: string[];
+  allCourseCodes: string[];
   prefs: Preferences;
   onChange: (next: Preferences) => void;
 }
 
-export const PreferencesPanel: React.FC<Props> = ({ majors, allCareers, prefs, onChange }) => {
+export const PreferencesPanel: React.FC<Props> = ({ majors, allCareers, allCourseCodes, prefs, onChange }) => {
   const toggleCareer = (role: string) => {
     const exists = prefs.careers.includes(role);
     const careers = exists ? prefs.careers.filter((r) => r !== role) : [...prefs.careers, role];
     onChange({ ...prefs, careers });
   };
 
+  const [completedQuery, setCompletedQuery] = React.useState("");
+  const toggleCompleted = (code: string) => {
+    const exists = prefs.completed.includes(code);
+    const completed = exists ? prefs.completed.filter((c) => c !== code) : [...prefs.completed, code];
+    onChange({ ...prefs, completed });
+  };
+  const filteredCodes = React.useMemo(() => {
+    const q = completedQuery.trim().toUpperCase();
+    const src = allCourseCodes || [];
+    if (!q) return src;
+    return src.filter((c) => c.includes(q));
+  }, [allCourseCodes, completedQuery]);
   return (
     <Card className="p-4 space-y-4">
       <div>
@@ -96,19 +111,31 @@ export const PreferencesPanel: React.FC<Props> = ({ majors, allCareers, prefs, o
           />
         </div>
         <div>
-          <Label htmlFor="completed" className="mb-2 inline-block">Completed courses (codes, comma-separated)</Label>
+          <Label htmlFor="completed" className="mb-2 inline-block">Completed courses</Label>
           <Input
             id="completed"
-            placeholder="COMP1170, COMP1180"
-            value={prefs.completed.join(", ")}
-            onChange={(e) => {
-              const parsed = e.target.value
-                .split(/[ ,;\n]+/)
-                .map((s) => s.trim().toUpperCase())
-                .filter(Boolean);
-              onChange({ ...prefs, completed: Array.from(new Set(parsed)) });
-            }}
+            placeholder="Search course code (e.g., COMP1170)"
+            value={completedQuery}
+            onChange={(e) => setCompletedQuery(e.target.value)}
           />
+          <ScrollArea className="h-48 mt-2 rounded-md border p-2">
+            <div className="grid grid-cols-2 gap-2">
+              {filteredCodes.map((code) => {
+                const checked = prefs.completed.includes(code);
+                return (
+                  <label key={code} className="flex items-center gap-2 text-sm">
+                    <Checkbox
+                      checked={checked}
+                      onCheckedChange={() => toggleCompleted(code)}
+                      aria-label={`Mark ${code} completed`}
+                    />
+                    <span>{code}</span>
+                  </label>
+                );
+              })}
+            </div>
+          </ScrollArea>
+          <p className="text-xs text-muted-foreground mt-2">Tick all courses you've already completed.</p>
         </div>
       </div>
     </Card>

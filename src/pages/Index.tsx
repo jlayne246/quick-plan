@@ -1,4 +1,5 @@
 import { useMemo, useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import { Course } from "@/types";
 import { courses as allCourses } from "@/data/courses";
 import { hasConflictWith } from "@/utils/schedule";
@@ -6,9 +7,9 @@ import { SearchAndFilters } from "@/components/registration/SearchAndFilters";
 import { CourseList } from "@/components/registration/CourseList";
 import { Cart } from "@/components/registration/Cart";
 import { SchedulePreview } from "@/components/registration/SchedulePreview";
-import { PreferencesPanel, type Preferences } from "@/components/registration/PreferencesPanel";
+import { type Preferences } from "@/components/registration/PreferencesPanel";
 import { Recommendations } from "@/components/registration/Recommendations";
-import { getMajors, getAllCareers, getRecommendedCourses } from "@/utils/recommendations";
+import { getRecommendedCourses } from "@/utils/recommendations";
 import { toast } from "@/hooks/use-toast";
 
 const Index = () => {
@@ -46,8 +47,6 @@ const Index = () => {
     });
   }, [search, department, credits]);
 
-  const majors = useMemo(() => getMajors(), []);
-  const careers = useMemo(() => getAllCareers(), []);
   const recommended = useMemo(() => getRecommendedCourses(prefs, allCourses), [prefs]);
 
   const canAdd = (c: Course) => {
@@ -102,7 +101,9 @@ const Index = () => {
         </div>
 
         <aside className="space-y-6">
-          <PreferencesPanel majors={majors} allCareers={careers} prefs={prefs} onChange={setPrefs} />
+          <div className="text-sm">
+            Manage your preferences on the <Link className="underline" to="/preferences">Preferences</Link> page.
+          </div>
           <Recommendations courses={recommended} onAdd={onAdd} />
           <Cart items={cart} onRemove={onRemove} onRegister={onRegister} />
           <SchedulePreview courses={cart} />
