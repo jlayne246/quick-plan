@@ -21,7 +21,7 @@ const PreferencesPage: React.FC = () => {
   }, [prefs]);
 
   useEffect(() => {
-    document.title = "Preferences • Semester Surge";
+    document.title = "Preferences • QuickPlan";
     const meta = document.querySelector('meta[name="description"]');
     if (meta) meta.setAttribute("content", "Set your major, level, career interests, completed courses, and target credits.");
   }, []);

@@ -20,7 +20,7 @@ const setMeta = (title: string, description: string, canonical?: string) => {
 const Landing: React.FC = () => {
   useEffect(() => {
     setMeta(
-      "Semester Surge – Plan your semester fast",
+      "QuickPlan – Plan your semester fast",
       "Plan courses, set preferences, and preview schedules in seconds.",
       "/"
     );
@@ -30,7 +30,7 @@ const Landing: React.FC = () => {
     <div className="min-h-screen bg-background text-foreground">
       <header className="border-b border-border">
         <div className="mx-auto max-w-6xl px-6 py-6 flex items-center justify-between">
-          <Link to="/" className="font-semibold tracking-tight">Semester Surge</Link>
+          <Link to="/" className="font-semibold tracking-tight">QuickPlan</Link>
           <nav className="flex items-center gap-3">
             <Link to="/login" className="text-sm">Log in</Link>
             <Link to="/signup" className="text-sm">Sign up</Link>

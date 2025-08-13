@@ -79,7 +79,7 @@ const Index = () => {
     <main className="min-h-screen">
       <header className="border-b bg-gradient-to-r from-primary/10 to-accent/10">
         <div className="container py-10">
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">Semester Surge: Course Registration</h1>
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">QuickPlan: Course Registration</h1>
           <p className="mt-3 text-lg text-muted-foreground max-w-2xl">
             Search the catalog, build a conflict-free schedule, and get ready to register.
           </p>

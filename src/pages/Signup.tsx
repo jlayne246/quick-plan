@@ -28,7 +28,7 @@ const Signup: React.FC = () => {
 
   useEffect(() => {
     setMeta(
-      "Sign up – Semester Surge",
+      "Sign up – QuickPlan",
       "Create an account to save preferences and plans.",
       "/signup"
     );

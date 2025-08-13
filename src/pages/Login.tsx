@@ -27,7 +27,7 @@ const Login: React.FC = () => {
 
   useEffect(() => {
     setMeta(
-      "Login – Semester Surge",
+      "Login – QuickPlan",
       "Access your account to plan and register courses.",
       "/login"
     );
