@@ -36,14 +36,12 @@ export const CourseList: React.FC<Props> = ({ courses, canAdd, onAdd }) => {
             <TableHead>Credits</TableHead>
             <TableHead className="min-w-[220px]">Schedule</TableHead>
             <TableHead>Instructor</TableHead>
-            <TableHead>Seats</TableHead>
             <TableHead className="text-right">Action</TableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
           {courses.map((c) => {
             const { ok, reason } = canAdd(c);
-            const full = c.seats <= 0;
             return (
               <TableRow key={c.id} className="hover:bg-muted/50">
                 <TableCell className="font-medium">{c.code}</TableCell>
@@ -58,19 +56,11 @@ export const CourseList: React.FC<Props> = ({ courses, canAdd, onAdd }) => {
                     <span>{formatMeetings(c)}</span>
                   </div>
                 </TableCell>
-                <TableCell>{c.instructor}</TableCell>
-                <TableCell>
-                  {full ? (
-                    <Badge variant="destructive">Full</Badge>
-                  ) : (
-                    <Badge>{c.seats} left</Badge>
-                  )}
-                </TableCell>
                 <TableCell className="text-right">
                   <Button
                     size="sm"
-                    variant={ok && !full ? "default" : "secondary"}
-                    disabled={!ok || full}
+                    variant={ok ? "default" : "secondary"}
+                    disabled={!ok}
                     onClick={() => onAdd(c)}
                     aria-label={`Add ${c.code}`}
                   >

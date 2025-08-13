@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import { Course } from "@/types";
 import { courses as allCourses } from "@/data/courses";
 import { hasConflictWith } from "@/utils/schedule";
@@ -6,6 +6,9 @@ import { SearchAndFilters } from "@/components/registration/SearchAndFilters";
 import { CourseList } from "@/components/registration/CourseList";
 import { Cart } from "@/components/registration/Cart";
 import { SchedulePreview } from "@/components/registration/SchedulePreview";
+import { PreferencesPanel, type Preferences } from "@/components/registration/PreferencesPanel";
+import { Recommendations } from "@/components/registration/Recommendations";
+import { getMajors, getAllCareers, getRecommendedCourses } from "@/utils/recommendations";
 import { toast } from "@/hooks/use-toast";
 
 const Index = () => {
@@ -13,6 +16,17 @@ const Index = () => {
   const [department, setDepartment] = useState("All");
   const [credits, setCredits] = useState("Any");
   const [cart, setCart] = useState<Course[]>([]);
+  const [prefs, setPrefs] = useState<Preferences>(() => {
+    try {
+      const raw = localStorage.getItem("prefs");
+      return raw ? JSON.parse(raw) : { major: null, level: "Level I", careers: [], completed: [], targetCredits: 15 };
+    } catch {
+      return { major: null, level: "Level I", careers: [], completed: [], targetCredits: 15 };
+    }
+  });
+  useEffect(() => {
+    localStorage.setItem("prefs", JSON.stringify(prefs));
+  }, [prefs]);
 
   const departments = useMemo(
     () => Array.from(new Set(allCourses.map((c) => c.department))),
@@ -32,9 +46,12 @@ const Index = () => {
     });
   }, [search, department, credits]);
 
+  const majors = useMemo(() => getMajors(), []);
+  const careers = useMemo(() => getAllCareers(), []);
+  const recommended = useMemo(() => getRecommendedCourses(prefs, allCourses), [prefs]);
+
   const canAdd = (c: Course) => {
     if (cart.find((x) => x.id === c.id)) return { ok: false, reason: "Already added" };
-    if (c.seats <= 0) return { ok: false, reason: "No seats available" };
     if (hasConflictWith(c, cart)) return { ok: false, reason: "Time conflict" };
     return { ok: true };
   };
@@ -85,6 +102,8 @@ const Index = () => {
         </div>
 
         <aside className="space-y-6">
+          <PreferencesPanel majors={majors} allCareers={careers} prefs={prefs} onChange={setPrefs} />
+          <Recommendations courses={recommended} onAdd={onAdd} />
           <Cart items={cart} onRemove={onRemove} onRegister={onRegister} />
           <SchedulePreview courses={cart} />
         </aside>

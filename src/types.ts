@@ -15,7 +15,5 @@ export type Course = {
   department: string;
   credits: number;
   instructor: string;
-  capacity: number;
-  seats: number; // remaining
   meetings: Meeting[];
 };
