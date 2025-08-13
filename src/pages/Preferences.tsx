@@ -28,7 +28,16 @@ const PreferencesPage: React.FC = () => {
 
   const majors = useMemo(() => getMajors(), []);
   const careers = useMemo(() => getAllCareers(), []);
-  const allCourseCodes = useMemo(() => Array.from(new Set(allCourses.map((c) => c.code.toUpperCase()))).sort(), []);
+  const allCourseCodes = useMemo(
+    () =>
+      Array.from(
+        new Set(
+          allCourses.map((c) => `${c.code.toUpperCase()} - ${c.title}`)
+        )
+      ).sort(),
+    [allCourses]
+  );
+
 
   return (
     <main className="min-h-screen">
