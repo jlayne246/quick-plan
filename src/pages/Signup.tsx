@@ -4,6 +4,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { toast } from "@/components/ui/sonner";
+import { supabase } from "@/integrations/supabase/client";
 
 const setMeta = (title: string, description: string, canonical?: string) => {
   document.title = title;
@@ -24,6 +25,7 @@ const Signup: React.FC = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirm, setConfirm] = useState("");
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -32,16 +34,52 @@ const Signup: React.FC = () => {
       "Create an account to save preferences and plans.",
       "/signup"
     );
-  }, []);
 
-  const onSubmit = (e: React.FormEvent) => {
+    // Check if user is already logged in
+    const checkAuth = async () => {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (session) {
+        navigate("/courses");
+      }
+    };
+    checkAuth();
+  }, [navigate]);
+
+  const onSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (password !== confirm) {
       toast("Passwords do not match");
       return;
     }
-    toast("Prototype: Sign up not connected yet.");
-    navigate("/preferences");
+
+    setLoading(true);
+
+    try {
+      const redirectUrl = `${window.location.origin}/courses`;
+      
+      const { error } = await supabase.auth.signUp({
+        email,
+        password,
+        options: {
+          emailRedirectTo: redirectUrl
+        }
+      });
+
+      if (error) {
+        if (error.message.includes('User already registered')) {
+          toast("Account already exists. Please log in instead.");
+        } else {
+          toast(error.message);
+        }
+      } else {
+        toast("Account created successfully! Please check your email to confirm your account.");
+        navigate("/login");
+      }
+    } catch (error) {
+      toast("An unexpected error occurred. Please try again.");
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -83,7 +121,9 @@ const Signup: React.FC = () => {
               required
             />
           </div>
-          <Button type="submit" className="w-full">Create account</Button>
+          <Button type="submit" className="w-full" disabled={loading}>
+            {loading ? "Creating account..." : "Create account"}
+          </Button>
         </form>
         <p className="text-sm text-muted-foreground mt-4">
           Already have an account? <Link to="/login" className="underline">Log in</Link>

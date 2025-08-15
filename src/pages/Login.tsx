@@ -4,6 +4,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { toast } from "@/components/ui/sonner";
+import { supabase } from "@/integrations/supabase/client";
 
 const setMeta = (title: string, description: string, canonical?: string) => {
   document.title = title;
@@ -23,6 +24,7 @@ const setMeta = (title: string, description: string, canonical?: string) => {
 const Login: React.FC = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -31,12 +33,42 @@ const Login: React.FC = () => {
       "Access your account to plan and register courses.",
       "/login"
     );
-  }, []);
 
-  const onSubmit = (e: React.FormEvent) => {
+    // Check if user is already logged in
+    const checkAuth = async () => {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (session) {
+        navigate("/courses");
+      }
+    };
+    checkAuth();
+  }, [navigate]);
+
+  const onSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    toast("Prototype: Auth not connected yet.");
-    navigate("/preferences");
+    setLoading(true);
+
+    try {
+      const { error } = await supabase.auth.signInWithPassword({
+        email,
+        password,
+      });
+
+      if (error) {
+        if (error.message.includes('Invalid login credentials')) {
+          toast("Invalid email or password. Please check your credentials.");
+        } else {
+          toast(error.message);
+        }
+      } else {
+        toast("Welcome back!");
+        navigate("/courses");
+      }
+    } catch (error) {
+      toast("An unexpected error occurred. Please try again.");
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -67,7 +99,9 @@ const Login: React.FC = () => {
               required
             />
           </div>
-          <Button type="submit" className="w-full">Log in</Button>
+          <Button type="submit" className="w-full" disabled={loading}>
+            {loading ? "Signing in..." : "Log in"}
+          </Button>
         </form>
         <p className="text-sm text-muted-foreground mt-4">
           New here? <Link to="/signup" className="underline">Create an account</Link>
